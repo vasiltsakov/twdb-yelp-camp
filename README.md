@@ -12,3 +12,4 @@
 - EJS Templating
 - MongoDB with Mongoose
 - Joi Data Validator
+- Authentication with Passport
