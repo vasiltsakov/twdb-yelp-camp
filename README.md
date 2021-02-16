@@ -1,6 +1,6 @@
 # twdb-yelp-camp
 
-## The Last Massive Project of The Web Developer Bootcamp
+## The Last Massive Project of The Web Developer Bootcamp - Udemy course of Colt Steele
 
 ### Technologies used:
 
@@ -13,3 +13,4 @@
 - MongoDB with Mongoose
 - Joi Data Validator
 - Authentication with Passport
+- Image Upload with Multer and Cloudinary
