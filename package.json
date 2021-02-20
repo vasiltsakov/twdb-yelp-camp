@@ -2,6 +2,10 @@
   "name": "twdb-yelp-camp",
   "version": "1.0.0",
   "description": "The Last Massive Project of The Web Developer Bootcamp",
+  "engines": {
+    "node": "14.15",
+    "npm": "6.14.8"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
